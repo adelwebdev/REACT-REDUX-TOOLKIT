@@ -3,7 +3,14 @@
 function App() {
   return (
     <div>
-          <h1>HELLO REACT</h1>
+      <div className='app-header'>
+
+      </div>
+
+      <div className='posts-container'>
+
+      </div>
+          
     </div>
   );
 }
